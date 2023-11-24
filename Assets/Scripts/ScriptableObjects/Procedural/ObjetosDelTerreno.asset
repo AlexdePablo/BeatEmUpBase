@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a48187085b902d84296b82e3019a7e54, type: 3}
+  m_Name: ObjetosDelTerreno
+  m_EditorClassIdentifier: 
+  bosque:
+  - {fileID: 11400000, guid: 8da8e7ea939b20d479217450793b0c6b, type: 2}
+  desierto: []
+  infierno: []
+  m_ObjecteThreshold: 0.927
+  m_BiomesScale: 1000
+  m_BiomesFrequency: 10
+  m_BiomaThreshold: 0.073
+  m_Objectes:
+  - {fileID: 11400000, guid: 8da8e7ea939b20d479217450793b0c6b, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ccd6693dac31424aa8d3cec674c51ff, type: 3}
+  m_Name: Patrullador
+  m_EditorClassIdentifier: 
+  vida: 50
+  damage: 5
+  velocity: 2
+  tiempoMareado: 0
+  tiempoInestable: 0
+  AtckSpeed: 1.5
+  tiempoStunned: 0
+  plusDamage: 2
+  range: 6

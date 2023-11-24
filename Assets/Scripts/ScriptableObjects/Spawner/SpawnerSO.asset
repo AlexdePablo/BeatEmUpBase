@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728cfff7ae7374f4faa2710e513e39d8, type: 3}
+  m_Name: SpawnerSO
+  m_EditorClassIdentifier: 
+  vidaMinima: 30
+  vidaMaxima: 50
+  "da\xF1oMinimo": 3
+  "da\xF1oMaximo": 5
+  velocitatMinima: 2
+  velocitatMaxima: 3
+  rangeMinim: 5
+  rangeMaxim: 7
+  listaPrefabs:
+  - {fileID: 0}
+  - {fileID: 0}
